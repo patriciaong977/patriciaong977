@@ -1,4 +1,4 @@
-### Hello there!  👋
+## Hello there!  👋
 
 <!--
 **patriciaong977/patriciaong977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Patricia Ong. Currently, I am pursuing a Bachelors Degree in Computer Science at California State University, Fullerton (CSUF).
+### My name is Patricia Ong. Currently, I am pursuing a Bachelors Degree in Computer Science at California State University, Fullerton (CSUF).
 Here you'll find a couple of projects, assignments, or things that I have been learning on the side. 
 
 - 😄 She/Her
