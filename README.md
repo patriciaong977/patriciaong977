@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 Here you'll find a couple of projects, assignments, or things that I have been learning on the side. 
 
 - 😄 She/Her
-- 🌱 I'm currently working on my summer internship. 
+- 🌱 I'm currently working on my Computer Science Degree. 
 - 📫 You can reach me at patricia.ong977@csu.fullerton.edu
-- 👯 Currently collaborating with CSUF Girls Who Code College Loop on a website. And learning some HTML, CSS, and Javascript with them. 
 - ⚡ Fun fact: I like building Ikea furniture, and Gundam Models. As well as taking travel photos with my trusty camera or Iphone. :D
