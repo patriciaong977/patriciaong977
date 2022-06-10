@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My name is Patricia Ong. Currently, I am pursuing a Bachelors Degree in Computer Science at California State University, Fullerton (CSUF).
+### My name is Patricia Ong. Earned my Bachelors Degree in Computer Science at California State University, Fullerton (CSUF).
 Here you'll find a couple of projects, assignments, or things that I have been learning on the side. 
 
 - 😄 She/Her
-- 🌱 I'm currently working on my Computer Science Degree. 
-- 📫 You can reach me at patricia.ong977@csu.fullerton.edu
 - ⚡ Fun fact: I like building Ikea furniture, and Gundam Models. As well as taking travel photos with my trusty camera or Iphone. :D
