@@ -13,7 +13,7 @@ Here you'll find a couple of projects, assignments, or things that I have been l
 - 😄 She/Her
 - 👩🏻‍🎓 Earned my Bachelors of Science in Computer Science at California State University, Fullerton (CSUF) 🐘 . 
 - 🌱 Currently learning, everything. 😆 But for reals, Swift 🦜 for iOS development and more Python 🐍. 
-- 🤯 In the future, I also wanna learn more above Web front-end development more.
+- 🤯 In the future, I also wanna learn more about Web front-end development too. 
 - ⚡ Fun fact: I like building Ikea furniture, and Gundam Models. As well as taking travel photos with my trusty camera or Iphone. :D
 
 
