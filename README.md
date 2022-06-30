@@ -7,7 +7,7 @@
 
 - 🖥 Here you'll find a couple of projects, assignments, or things that I have been learning on the side. 
 - 😄 She/Her
-- 🧠 Currently learning, everything. 😆 But for reals, swift 🦜 and python 🐍. 
+- 🌱 Currently learning, everything. 😆 But for reals, swift 🦜 and python 🐍. 
 - ⚡ Fun fact: I like building Ikea furniture, and Gundam Models. As well as taking travel photos with my trusty camera or Iphone. :D
 
 
