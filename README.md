@@ -14,5 +14,3 @@
 ![Patricia Ong's github stats](https://github-readme-stats.vercel.app/api?username=patriciaong977&show_icons=true&theme=blueberry&hide=stars,issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciaong977&layout=compact)](https://github.com/patriciaong977/github-readme-stats)
-
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
