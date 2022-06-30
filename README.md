@@ -18,7 +18,7 @@ Here you'll find a couple of projects, assignments, or things that I have been l
 
 
 # Just some graphs 👩🏻‍💻
-<div style="display:flex; flex-direction: row;">
+<div align="center" style="display:flex; flex-direction: row;">
 
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciaong977&layout=compact&theme=blueberry"/>
 <img class="img" src="https://github-readme-stats.vercel.app/api?username=patriciaong977&show_icons=true&theme=blueberry&hide=stars,issues"/>
