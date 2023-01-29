@@ -12,8 +12,7 @@
  [![Gmail Badge](https://img.shields.io/badge/-ong.patricia.xs-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ong.patricia.xs@gmail.com)](mailto:ong.patricia.xs.com)
 </div>
 
-Welcome to my github! 🙋🏻‍♀️
-<br />
+### Welcome to my github! 🙋🏻‍♀️
 I'm forever a student. 📚 Always learning things I'm interested in.
 <br />
 Here you'll find a couple of projects, assignments, or things that I have been learning on the side. 🖥 
