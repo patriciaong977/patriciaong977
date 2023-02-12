@@ -21,7 +21,7 @@ Here you'll find a couple of projects, assignments, or things that I have been l
 - 😄 She/Her
 - 👩🏻‍🎓 Earned my Bachelors of Science in Computer Science at California State University, Fullerton (CSUF) 🐘 . 
 - 🌱 Currently learning, everything. 😆 
-- 🤯 In the future, I also wanna learn some Web front-end development too and what flutter is all about. 
+- 🤯 In the future, I also wanna learn some Mobile development, Web front-end development, see what flutter is all about and become a better python developer.
 - ⚡ Fun fact: I like building Ikea furniture, and Gundam Models. As well as taking travel photos with my trusty camera or Iphone.
 - 🌐 Still under construction, but 🌟Porfolio🌟: [patriciaong977.github.io](https://patriciaong977.github.io/)
 
