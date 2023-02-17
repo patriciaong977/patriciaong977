@@ -1,5 +1,5 @@
 # Hello there, this is Patricia Ong! 👋
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=BuiTheBoi&style=for-the-badge></p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=patriciaong977&style=for-the-badge></p>
 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/23037963/215307350-39594754-f87c-4077-b5fa-16577a4b7db9.gif"></p>
