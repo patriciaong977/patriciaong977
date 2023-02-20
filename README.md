@@ -23,7 +23,7 @@ Here you'll find a couple of projects, assignments, or things that I have been l
 - 🌱 Currently learning, everything. 😆 
 - 🤯 In the future, I also wanna learn some Mobile development, Web front-end development, see what flutter is all about and become a better python developer.
 - ⚡ Fun fact: I like building Ikea furniture, and Gundam Models. As well as taking travel photos with my trusty camera or Iphone.
-- 🌐 Still under construction, but 🌟Website!🌟: [patriciaong977.github.io](https://patriciaong977.github.io/)
+- 🌐 🌟Website!🌟: [patriciaong977.github.io](https://patriciaong977.github.io/)
 
 ### Languages and Tools I've Worked With: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
