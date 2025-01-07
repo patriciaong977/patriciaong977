@@ -1,4 +1,4 @@
-# Hello there, this is Patricia Ong! 👋
+# Hello there, I'm Patricia Ong! 👋
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=patriciaong977&style=for-the-badge></p>
 
 
